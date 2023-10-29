@@ -1,4 +1,4 @@
-# learn_development_bases
+# LDB (Learn Development Bases)
 In this repository you can find exercises to learn the basics of the world of development
 
 ---
@@ -49,8 +49,8 @@ In this chapter, we'll delve into the world of the CLI, using the `bash` shell, 
 
 ## ✏️ Exercises:
 
-### [Exercise 1](https://github.com/pentarix1996/learn_development_bases/tree/main/Chapter 1/Exercise 1)
-### [Exercise 2](https://github.com/pentarix1996/learn_development_bases/tree/main/Chapter 1/Exercise 2)
+### [Exercise 1](https://github.com/pentarix1996/learn_development_bases/tree/main/Chapter%201/Exercise%201)
+### [Exercise 2](https://github.com/pentarix1996/learn_development_bases/tree/main/Chapter%201/Exercise%202)
 
 ## 📌 Appendices:
 

@@ -47,8 +47,8 @@ En este capítulo, nos adentraremos en el mundo del CLI, usando el shell `bash`,
 
 ## ✏️ Ejercicios:
 
-### [Ejercicio 1](https://github.com/pentarix1996/learn_development_bases/tree/main/Chapter 1/Exercise 1)
-### [Ejercicio 2](https://github.com/pentarix1996/learn_development_bases/tree/main/Chapter 1/Exercise 2)
+### [Ejercicio 1](https://github.com/pentarix1996/learn_development_bases/tree/main/Chapter%201/Exercise%201)
+### [Ejercicio 2](https://github.com/pentarix1996/learn_development_bases/tree/main/Chapter%201/Exercise%202)
 
 ## 📌 Apéndices:
 
