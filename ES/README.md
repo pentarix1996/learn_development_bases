@@ -1,3 +1,4 @@
+# [Versión en ingles](https://github.com/pentarix1996/learn_development_bases)
 # LDB (Learn Development Bases)
 En este repositorio podrás encontrar ejercicios para aprender los conceptos básicos del mundo del desarrollo.
 

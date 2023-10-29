@@ -1,3 +1,5 @@
+# [Spanish Version](https://github.com/pentarix1996/learn_development_bases/tree/main/ES)
+
 # LDB (Learn Development Bases)
 In this repository you can find exercises to learn the basics of the world of development
 
